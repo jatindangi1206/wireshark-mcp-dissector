@@ -30,7 +30,7 @@ This dissector enables Wireshark to interpret and display Model Context Protocol
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wireshark-mcp-dissector.git
+git clone https://github.com/jatindangi1206/wireshark-mcp-dissector.git
 
 # Copy the Lua script to your Wireshark plugins directory
 # Windows (run in PowerShell)
