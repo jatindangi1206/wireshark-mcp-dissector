@@ -1,5 +1,5 @@
 -- MCP (Model Context Protocol) Dissector
--- Author: Claude
+-- Author: Jatin Dangi
 -- Date: April 19, 2025
 -- Description: A Wireshark dissector for the Model Context Protocol
 
