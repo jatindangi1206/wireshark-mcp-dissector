@@ -8,7 +8,7 @@ Thank you for your interest in contributing to this project! Here are some guide
 
 2. **Clone the Fork**: Clone your fork to your local machine.
    ```
-   git clone https://github.com/your-username/wireshark-mcp-dissector.git
+   git clone https://github.com/jaitndangi1206/wireshark-mcp-dissector.git
    ```
 
 3. **Create a Branch**: Create a new branch for your changes.
